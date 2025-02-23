@@ -1,4 +1,4 @@
-geo,time,Search_impression,Display_impression,Video_impression,DemandGen_impression,Search_spend,Display_spend,Video_spend,Demand Gen_spend,Conversions,Population,Revenue_Per_Conversion
+geo,time,Search_impression,Display_impression,Video_impression,DemandGen_impression,Search_spend,Display_spend,Video_spend,DemandGen_spend,Conversions,Population,Revenue_Per_Conversion
 Alabama,9/25/23,105,39,,,$23.65,$4.13, --, --,1,5039877,$588
 Alaska,9/25/23,22,1,,,$5.91,$0.00, --, --,0,732673,$0
 Arizona,9/25/23,187,93,,,$39.20,$1.22, --, --,0,7359197,$0
